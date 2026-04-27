@@ -103,7 +103,6 @@ npm run build
 
 ## Demo & Verification
 
-- Video demo flow: `create -> duplicate email -> restore -> search -> edit -> delete -> pagination`
-- แนบหลักฐานการรันคำสั่ง:
-  - `npm run lint`
-  - `npm run build`
+- Video demo files:
+  - `docs/demo/01-demo-flow.mov` : flow `create -> duplicate email -> restore -> search -> edit -> delete -> pagination`
+  - `docs/demo/02-npm-run.mov` : การรันคำสั่ง `npm run lint` และ `npm run build`
